@@ -1,0 +1,7 @@
+app/bootstrap.php.cache
+app/cache/*
+app/logs/*
+web/bundles/
+vendor
+vagrant/.vagrant
+composer.phar
